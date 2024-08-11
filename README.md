@@ -27,6 +27,11 @@ A modern, responsive currency conversion application built with React.js and sty
 
 This project fetches real-time exchange rates from an external API to ensure accurate and up-to-date currency conversions.
 
+
+
+![image](https://github.com/user-attachments/assets/53614b43-4480-4da8-8ee3-b2160c9ef813)
+
+
 ## Getting Started
 
 ```bash
@@ -41,6 +46,8 @@ npm install
 
 # Start the development server
 npm start
+
+
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
